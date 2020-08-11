@@ -3,7 +3,7 @@ app:
   group: app
   replicaCount: 1
   container:
-    image: add-image-here
+    image: 
     port: 8080
     config: []
     env: 
